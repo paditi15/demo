@@ -1,3 +1,3 @@
 # demo
 it is an demo repository<br>
-author - aditi
+author - aditi patil
